@@ -23,7 +23,7 @@ There are no two adjacent flowers in flowerbed.
 0 <= n <= flowerbed.length
 '''
 
-# solution
+# solved
 def canPlaceFlowers(self, flowerbed, n):
 
     count = 0

@@ -35,7 +35,7 @@ There is at least one word in s.
 Follow-up: If the string data type is mutable in your language, can you solve it in-place with O(1) extra space?
 '''
 
-# solution
+# solved
 def reverseWords(self, s):
 
     l = s.split()

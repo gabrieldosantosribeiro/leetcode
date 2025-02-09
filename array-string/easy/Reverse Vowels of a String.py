@@ -29,7 +29,7 @@ Constraints:
 s consist of printable ASCII characters.
 '''
 
-# solutoin
+# solved
 def reverseVowels(self, s):
 
     s = list(s)

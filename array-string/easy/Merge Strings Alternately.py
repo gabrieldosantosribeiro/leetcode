@@ -37,7 +37,7 @@ Constraints:
 word1 and word2 consist of lowercase English letters.
 '''
 
-# solution
+# solved
 def mergeAlternately(self, word1, word2):
 
     merged = ''
